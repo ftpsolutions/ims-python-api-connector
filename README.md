@@ -55,3 +55,6 @@ Instructions:
     * `mkvirtualenv ims-python-api-connector`
 * Install the requirements
     * `pip install -r requirements.txt`
+* Watch the tests
+    * ./watch_tests.sh
+* Write some code
